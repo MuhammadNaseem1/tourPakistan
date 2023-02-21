@@ -1,0 +1,5 @@
+-This app is simple with signup and then sign in with registered credentials and there is mini social media.
+-It has stack navigation, tab  as well as Drawer navigation.
+- The app is connected with mongoDB at backend
+- MERN stack is used in this app
+-Server is created using express JS 
