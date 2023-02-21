@@ -3,3 +3,6 @@
 - The app is connected with mongoDB at backend
 - MERN stack is used in this app
 -Server is created using express JS 
+- Redux toolkit has been added to manage state.
+-Most of the widgets are used and handled professionally.
+-Hooks are used which have added more importance functional components.
